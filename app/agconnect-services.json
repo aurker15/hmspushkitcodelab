@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"5190090000025509710",
+		"product_id":"736430079244686574",
+		"client_id":"486557471658214464",
+		"client_secret":"D7F50986C16876585462C9368C212F1AEBF341CBEE7E1C941204C6B0F919D0C8",
+		"app_id":"103183387",
+		"package_name":"com.idea.hmspushkit",
+		"api_key":"CgB6e3x9rAt0dVUseGldwH1Au58x0kaeASAaAX32rRE+BoFrZ67lrMhZc4UW25kytCxNq0XrMsQdKrRwMY1TxpDw"
+	},
+	"configuration_version":"1.0"
+}
